@@ -1,5 +1,5 @@
 <h1 align="center">Hi, It's at0miccat166</h1>
-<h3 align="center">a newcomer in coding!</h3>
+<h3 align="center">Happy coding!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
