@@ -12,9 +12,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.youtube.com/c/28tech_" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.youtube.com/c/28tech_" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=at0miccat166&show_icons=true&locale=en&layout=compact" alt="at0miccat166" /></p>
 <img src="https://github-readme-stats.vercel.app/api?username=at0miccat166&show_icons=true&count_private=true&theme=buefy&include_all_commits=true" height="192" alt="Github stats card" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=at0miccat166&show_icons=true&locale=en" alt="at0miccat166" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=at0miccat166&" alt="at0miccat166" /></p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=at0miccat166&layout=compact&theme=vue&hide=PHP&langs_count=6" height="120" alt="Top languages card" />
+<img src="https://user-images.githubusercontent.com/3750940/100553934-25a84a00-325f-11eb-974e-f5b61dcb44b3.png" height="300" alt="Hieu hard at work" /> 
