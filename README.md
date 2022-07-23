@@ -1,5 +1,5 @@
-<h1 align="center">Hi, It's at0m166 (also known as m0ta166) </h1>
-<h1 align="center">I'm a CP lover and I want to be an engineerrr! </h1>
+<h1 align="center">Hi, it's at0m166 (or m0ta166) </h1>
+<h1 align="center">a CP lover and wanna be an engineerrr! </h1>
 <h3 align="center">Be cool and keep coding!</h3>
 
 <h3 align="left">Connect with me:</h3>
