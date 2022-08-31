@@ -1,5 +1,5 @@
-<h1 align="center">Hi, it's at0m (or Jasper) </h1>
-<h1 align="center">a CP lover and I wanna be an engineerrr! </h1>
+<h1 align="center">Hi, it's __Jasper </h1>
+<h1 align="center">a CP and SWE enthusiast! </h1>
 <h3 align="center">Be cool and keep coding!</h3>
 
 <h3 align="left">Connect with me:</h3>
